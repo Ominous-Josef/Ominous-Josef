@@ -39,11 +39,10 @@ Here are some of the skills and technologies I work with:
 
 - [Any notable achievements or certifications]
 
--->
-
 ## Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jossy-Jones&show_icons=true)
+-->
 
 ## Let's Connect
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hey there! 👋
 
-I'm Jossy Jones, a Software Developer based in Nigeria. Welcome to my GitHub profile!
+I'm Joseph Ohwonohwo, a Software Developer based in Nigeria. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -28,7 +28,7 @@ I'm Jossy Jones, a Software Developer based in Nigeria. Welcome to my GitHub pro
 
 Here are some of the skills and technologies I work with:
 
-- Programming Languages: JavaScript, Rust
+- Programming Languages: JavaScript
 - Web Development: CSS
 - Tools and Frameworks: React, Vue, TailwindCSS
 - Databases: MongoDB
@@ -47,6 +47,6 @@ Here are some of the skills and technologies I work with:
 ## Let's Connect
 
 - LinkedIn: [Joseph Ohwonohwo](https://linkedin.com/in/joseph-ohwonohwo/)
-- Twitter: [Joseph Oghenevwede](https://x.com/J_Oghenevwede)
+- Twitter: [My twitter 🥲](https://x.com/J_Oghenevwede)
 
 Feel free to explore my repositories and connect with me! 😊

@@ -34,13 +34,16 @@ Here are some of the skills and technologies I work with:
 - Databases: MongoDB
 - Other Interests: Arena Breakout 🎮
 
+<!--
 ## Achievements
 
 - [Any notable achievements or certifications]
 
+-->
+
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jossy-Jones&show_icons=true)
 
 ## Let's Connect
 

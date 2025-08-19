@@ -22,7 +22,7 @@ I'm Joseph Ohwonohwo, a Software Developer based in Nigeria. Welcome to my GitHu
 - 🌱 I’m continuously learning and exploring new technologies.
 - 👯 I enjoy collaborating on open-source initiatives and interesting projects.
 - 💬 Ask me about frontend development, JavaScript Frameworks.
-- 📫 You can reach me via [email](mailto:jossyjones187@gmail.com).
+- 📫 You can reach me via [email](mailto:joseph.ohwonohwo@gmail.com).
 
 ## Skills
 

@@ -38,11 +38,11 @@ Here are some of the skills and technologies I work with:
 ## Achievements
 
 - [Any notable achievements or certifications]
--->
+
 ## Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ominous-Josef&show_icons=true)
-
+-->
 
 ## Let's Connect
 

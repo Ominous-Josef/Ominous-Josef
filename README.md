@@ -30,19 +30,19 @@ Here are some of the skills and technologies I work with:
 
 - Programming Languages: JavaScript
 - Web Development: CSS
-- Tools and Frameworks: React, Vue, TailwindCSS
-- Databases: MongoDB
+- Tools and Frameworks: React, Vue, TailwindCSS, Nextjs, Nestjs, Expressjs
+- Databases: MongoDB, Postgresql, Firebase
 - Other Interests: Arena Breakout 🎮
 
 <!--
 ## Achievements
 
 - [Any notable achievements or certifications]
-
+-->
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jossy-Jones&show_icons=true)
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ominous-Josef&show_icons=true)
+
 
 ## Let's Connect
 
